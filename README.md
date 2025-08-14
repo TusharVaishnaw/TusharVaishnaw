@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Tushar Vaishnaw</h1>  
 <p align="center">Full-Stack Developer | MERN Enthusiast | AI Integrator</p>  
----
+
 ## 💬 About Me
 A full-stack developer building modular MERN applications and practical web tools. I enjoy tackling real-world problems from inception to deployment, shipping production-ready features, and continuously improving my skills in cloud basics and advanced React patterns.
----
+
 ## 🔬 My Development Flow
 
 🛠 End-to-End Web Development – From brainstorming features to deploying live products, I handle the full cycle using the MERN stack.
@@ -19,8 +19,6 @@ A full-stack developer building modular MERN applications and practical web tool
 
 🤝 Team Collaboration – Coordinating code reviews, Git merges, and small-team integrations.
 
----
-
 ## 💻 Tech Stack
 💻 **Languages & Frameworks:** C++ (STL), JavaScript (ES6+), React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Responsive UI Design, MongoDB, MySQL
 
@@ -28,7 +26,7 @@ A full-stack developer building modular MERN applications and practical web tool
 
 ## 🧰 Dev Tools & Platforms
 Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab | Excel | Hugging Face | Windows Server Setup | Basic Cloud Hosting & DNS Configuration
----
+
 ## 📊 GitHub Stats
 <!-- 
 <p align="left">  
@@ -39,12 +37,12 @@ Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&locale=en" alt="tusharvaishnaw" />  
 </p>
 
----
+
 ## 📌 Notable Projects
 📦 **Inventory Management System (2025)** – Real-time stock & sales tracking, role-based access, invoice-linked updates, analytics dashboards.
 
 📝 **Assignment Submission Portal (2024)** – Platform for assignment creation, submission, grading, and user management, secured with JWT and bcrypt.
----
+
  ## 🌱 Currently Exploring
 
 🚀 Strengthening React.js fundamentals
@@ -57,7 +55,7 @@ Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab
 
 🌟 Open-source contribution practices
 
----
+
 ## 🔭 Looking Forward
 
 🤖 Develop intelligent web applications with AI enhancements
@@ -68,7 +66,7 @@ Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab
 
 ☁️ Expand cloud deployment expertise
 
----
+
 ## 📬 Connect With Me
 💼 **LinkedIn:** [linkedin.com/in/TusharVaishnaw](https://linkedin.com/in/TusharVaishnaw)
 

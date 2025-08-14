@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tushar Vaishnaw</h1>  
-<p align="center">Full-Stack Developer | MERN Enthusiast | AI Integrator</p>  
+<h1 align="center">Hi 👋, I'm Tushar Vaishnaw</h1><p align="center">Full-Stack Developer | MERN Enthusiast | AI Integrator</p>  
 
 ## 💬 About Me
 A full-stack developer building modular MERN applications and practical web tools. I enjoy tackling real-world problems from inception to deployment, shipping production-ready features, and continuously improving my skills in cloud basics and advanced React patterns.
@@ -25,7 +24,7 @@ A full-stack developer building modular MERN applications and practical web tool
 ⚙️ **Backend & Auth:** RESTful API Development, Role-Based Access Control, JWT, bcrypt
 
 ## 🧰 Dev Tools & Platforms
-Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab | Excel | Hugging Face | Windows Server Setup | Basic Cloud Hosting & DNS Configuration
+Git & GitHub, Postman & API Testing, CMD & PowerShell, VS Code, Google Colab, Excel, Hugging Face, Windows Server Setup, Basic Cloud Hosting & DNS Configuration
 
 ## 📊 GitHub Stats
 <!-- 
@@ -72,5 +71,4 @@ Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab
 
 📧 **Email:** [vaishnawtushar@gmail.com](mailto:vaishnawtushar@gmail.com)
 
----
 💡 *"Code with clarity, build with purpose."*

@@ -1,14 +1,80 @@
 <h1 align="center">Hi 👋, I'm Tushar Vaishnaw</h1>
-<h3 align="center">A passionate Full stack web developer</h3>
+<!-- <h3 align="center">A passionate Full stack web developer</h3> -->
+##  About Me
+Hi, I’m Tushar Vaishnaw, a full-stack developer who specializes in building modular MERN applications and practical web tools. I possess a strong grasp of data structures and algorithms, and I take pleasure in tackling real-world issues from inception to completion. I ship production-ready features and am constantly honing cloud basics and advanced React patterns.
+T​h​i​s​ ​i​s​ ​h​i​d​d​e​n.
+---
+## 🔬 My Development Flow
+<!-- 
+🖥️ **Frontend Development** – Creating responsive, intuitive UIs using React.js, Tailwind CSS, and Bootstrap.
+⚙️ **Backend Development** – Building secure RESTful APIs with Node.js, Express, and MongoDB.
+🛠 **Full-Stack Integration** – Connecting frontend and backend seamlessly for a consistent experience.
+☁️ Infra & Deployment – Configuring Windows Server environments, managing domains/DNS, and setting up basic cloud hosting.
+🗄 Data & Logic Layer – Designing efficient database schemas and optimizing queries for speed and scalability.
+-->
+🛠 End-to-End Web Development – From brainstorming features to deploying live products, I handle the full cycle using the MERN stack.
+📊 **Data & Analytics Features** – Implementing role-based access, real-time tracking, and analytics dashboards.
+💻 Interactive Frontends – Creating clean, responsive, and accessible UIs with React.js, Tailwind CSS, and Bootstrap.
+⚙️ Robust Backends – Engineering secure APIs, handling authentication, and implementing role-based permissions with Node.js, Express, and MongoDB/MySQL.
+🤖 Smart Integrations – Exploring Hugging Face to bring AI-driven enhancements into applications.
+🤝 **Team Collaboration** – Coordinating code reviews, Git merges, and familiar with integrations in small team settings.
+---
+
+## 💻 Tech Stack
+C++ (STL), JavaScript (ES6+)
+React.js, Node.js, Express.js
+Tailwind CSS, Bootstrap, Responsive UI Design
+MongoDB, MySQL
+RESTful API Development, Role-Based Access Control, Authentication & Authorization (JWT, bcrypt)
+
+## 🧰 Dev Tools & Platforms
+Git & GitHub 
+Postman, API Testing 
+CMD, PowerShell
+VS Code
+Google Colab, Excel
+Hugging Face(some AI spice)
+---
+
+## 📌 Notable Projects
+
+**📦 Inventory Management System (2025)** – Developed for a small business to manage stock and sales in real time with authentication, role-based access, invoice-linked updates, and analytics.
+**📝 Assignment Submission Portal (2024)** – Built a platform for assignment creation, submission, grading, and user management, secured with JWT authentication and bcrypt hashing.
+
+---
+
+## 🌱 Currently Exploring
+Strengthening React.js fundamentals
+Performance optimization in full-stack applications
+CI/CD workflows for smoother deployments
+Cloud deployment with AWS and GCP basics
+Open-source contribution practices
+---
+
+## 🔭 Looking Forward
+[] Develop intelligent web applications with AI enhancements for practical use
+[] Experiment with AI-driven features in scalable web apps
+[] Strengthen problem-solving and DSA skills
+[] Expand knowledge of cloud deployments
+
+---
+
+## 📬 Connect With Me
+
+💼 **LinkedIn:** [linkedin.com/in/TusharVaishnaw](https://linkedin.com/in/TusharVaishnaw)
+📧 **Email:** [vaishnawtushar@gmail.com](mailto:vaishnawtushar@gmail.com)
+---
+
+💡 *"Code with clarity, build with purpose."*
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tusharvaishnaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharvaishnaw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharvaishnaw&show_icons=true&locale=en&layout=compact" alt="tusharvaishnaw" /></p>
-
+---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&locale=en" alt="tusharvaishnaw" /></p>

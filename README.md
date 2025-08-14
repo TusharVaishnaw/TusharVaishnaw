@@ -1,6 +1,3 @@
-Got it! Here's your polished GitHub README with your original emojis kept intact for a lively, visually engaging look:
-
----
 
 <h1 align="center">Hi 👋, I'm Tushar Vaishnaw</h1>  
 <p align="center">Full-Stack Developer | MERN Enthusiast | AI Integrator</p>  
@@ -9,7 +6,7 @@ Got it! Here's your polished GitHub README with your original emojis kept intact
 
 ## 💬 About Me
 
-Hi, I’m Tushar Vaishnaw — a full-stack developer building modular MERN applications and practical web tools. I enjoy tackling real-world problems from inception to deployment, shipping production-ready features, and continuously improving my skills in cloud basics and advanced React patterns.
+A full-stack developer building modular MERN applications and practical web tools. I enjoy tackling real-world problems from inception to deployment, shipping production-ready features, and continuously improving my skills in cloud basics and advanced React patterns.
 
 ---
 
@@ -67,10 +64,11 @@ Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab
 ---
 
 ### 📊 GitHub Stats
-
+<!-- 
 <p align="left">  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharvaishnaw&show_icons=true&locale=en&layout=compact" alt="tusharvaishnaw" />  
 </p>  
+-->
 
 <p align="left">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&locale=en" alt="tusharvaishnaw" />  

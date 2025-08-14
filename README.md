@@ -18,13 +18,25 @@ A full-stack developer building modular MERN applications and practical web tool
 
 🤝 Team Collaboration – Coordinating code reviews, Git merges, and small-team integrations.
 
-## 💻 Tech Stack
-💻 **Languages & Frameworks:** C++ (STL), JavaScript (ES6+), React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Responsive UI Design, MongoDB, MySQL
+## 🌟My Skills & Stack
 
-⚙️ **Backend & Auth:** RESTful API Development, Role-Based Access Control, JWT, bcrypt
+🚀 **Tech Stack**
+- C++ (STL), JavaScript (ES6+)
+- React.js, Node.js, Express.js
+- Tailwind CSS, Bootstrap, Responsive UI Design
+- MongoDB, MySQL
 
-## 🧰 Dev Tools & Platforms
-Git & GitHub, Postman & API Testing, CMD & PowerShell, VS Code, Google Colab, Excel, Hugging Face, Windows Server Setup, Basic Cloud Hosting & DNS Configuration
+🔧 **Backend & Auth:**
+- RESTful API Development
+- Role-Based Access Control
+- JWT, bcrypt
+
+🛠 **Tools & DevOps:**
+- Git & GitHub
+- Postman & API Testing
+- CMD & PowerShell
+- VS Code, Google Colab
+- Hugging Face
 
 ## 📊 GitHub Stats
 <!-- 
@@ -44,15 +56,15 @@ Git & GitHub, Postman & API Testing, CMD & PowerShell, VS Code, Google Colab, Ex
 
  ## 🌱 Currently Exploring
 
-🚀 Strengthening React.js fundamentals
+- Strengthening React.js fundamentals
 
-⚡ Performance optimization in full-stack apps
+- Performance optimization in full-stack apps
 
-🛠 CI/CD workflows for smoother deployments
+- CI/CD workflows for smoother deployments
 
-☁️ Cloud deployments (AWS & GCP basics)
+- Cloud deployments (AWS & GCP basics)
 
-🌟 Open-source contribution practices
+- Open-source contribution practices
 
 
 ## 🔭 Looking Forward

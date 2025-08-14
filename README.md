@@ -1,15 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Tushar Vaishnaw</h1>  
 <p align="center">Full-Stack Developer | MERN Enthusiast | AI Integrator</p>  
-
 ---
-
 ## 💬 About Me
-
 A full-stack developer building modular MERN applications and practical web tools. I enjoy tackling real-world problems from inception to deployment, shipping production-ready features, and continuously improving my skills in cloud basics and advanced React patterns.
-
 ---
-
 ## 🔬 My Development Flow
 
 🛠 End-to-End Web Development – From brainstorming features to deploying live products, I handle the full cycle using the MERN stack.
@@ -34,7 +29,7 @@ A full-stack developer building modular MERN applications and practical web tool
 ## 🧰 Dev Tools & Platforms
 Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab | Excel | Hugging Face | Windows Server Setup | Basic Cloud Hosting & DNS Configuration
 ---
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <!-- 
 <p align="left">  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharvaishnaw&show_icons=true&locale=en&layout=compact" alt="tusharvaishnaw" />  
@@ -42,7 +37,8 @@ Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab
 -->
 <p align="left">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&locale=en" alt="tusharvaishnaw" />  
-</p>  
+</p>
+
 ---
 ## 📌 Notable Projects
 📦 **Inventory Management System (2025)** – Real-time stock & sales tracking, role-based access, invoice-linked updates, analytics dashboards.
@@ -60,6 +56,7 @@ Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab
 ☁️ Cloud deployments (AWS & GCP basics)
 
 🌟 Open-source contribution practices
+
 ---
 ## 🔭 Looking Forward
 
@@ -70,10 +67,12 @@ Git & GitHub | Postman & API Testing | CMD & PowerShell | VS Code | Google Colab
 💡 Strengthen problem-solving and DSA skills
 
 ☁️ Expand cloud deployment expertise
+
 ---
 ## 📬 Connect With Me
 💼 **LinkedIn:** [linkedin.com/in/TusharVaishnaw](https://linkedin.com/in/TusharVaishnaw)
 
 📧 **Email:** [vaishnawtushar@gmail.com](mailto:vaishnawtushar@gmail.com)
+
 ---
 💡 *"Code with clarity, build with purpose."*

@@ -49,8 +49,7 @@ A full-stack developer building modular MERN applications and practical web tool
 
 📝 **Assignment Submission Portal (2024)** – Platform for assignment creation, submission, grading, and user management, secured with JWT and bcrypt.
 
- ## 🌱 Currently Exploring
-
+ ## 🔍 Passionately Experimenting With:
 - Strengthening React.js fundamentals
 
 - Performance optimization in full-stack apps

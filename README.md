@@ -42,8 +42,6 @@ A full-stack developer building modular MERN applications and practical web tool
 <p align="left">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&locale=en" alt="tusharvaishnaw" />  
 </p>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&theme=radical)
-
 
 
 ## 📌 Notable Projects

@@ -40,12 +40,13 @@ A full-stack developer building modular MERN applications and practical web tool
 </p>  
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&locale=en" alt="tusharvaishnaw" />  
 
-<p align="left">  
 [![GitHub Streak](https://streak-stats.demolab.com?user=tusharvaishnaw&theme=dark)](https://git.io/streak-stats)
+<!--
+<p align="left">  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&locale=en" alt="tusharvaishnaw" />  
 </p>
-
+-->
 
 ## 📌 Notable Projects
 📦 **Inventory Management System (2025)** – Real-time stock & sales tracking, role-based access, invoice-linked updates, analytics dashboards.

@@ -41,8 +41,9 @@ A full-stack developer building modular MERN applications and practical web tool
 -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tusharvaishnaw&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TusharVaishnaw)](https://git.io/streak-stats)
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=tusharvaishnaw&theme=dark)](https://git.io/streak-stats)
 <p align="left">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharvaishnaw&show_icons=true&locale=en" alt="tusharvaishnaw" />  
 </p>

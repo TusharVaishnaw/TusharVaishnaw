@@ -10,7 +10,7 @@ B.Tech CS graduate and Systems Engineer at TCS (AI/ML mentorship track). I build
 **Tools:** Git/GitHub, GitHub Actions (CI), Postman, VS Code
 
 ## 📌 Notable Projects
-🤖 **[AI-Powered Company Intelligence Engine](https://github.com/TusharVaishnaw/cintelv5)** (2026) — LLM pipeline turning raw SEC filings into 150+ structured insights; 8+ integrated APIs; Giskard + DeepEval evaluation suite catching hallucinations pre-deployment.
+🤖 **[AI-Powered Company Intelligence Engine](https://github.com/TusharVaishnaw/cintel)** (2026) — LLM pipeline turning raw SEC filings into 150+ structured insights; 8+ integrated APIs; Giskard + DeepEval evaluation suite catching hallucinations pre-deployment.
 
 📦 **[Inventory Management System](https://github.com/TusharVaishnaw/Inventory-Management-System)** (2025) — Real-time stock/sales tracking for 10,000+ SKUs, role-based access, concurrent multi-user support, custom caching layer (~80% fewer redundant API calls).
 
